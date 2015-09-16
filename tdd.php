@@ -1,7 +1,7 @@
 <?php
 
 $tester = new testarea();
-echo $tester->getarea();
+echo $tester->testgetarea();
 
 class area{
 
@@ -27,4 +27,4 @@ class testarea{
         }else{
        echo "your test has not worked";
 }
-}
+}}
